@@ -1,1 +1,2 @@
 # html-css-course
+I'm learning about HTML and CSS through a Udemy course Build Responsive Real-World Websites with HTML and CSS by Jonas Schmedtmann: [Course Link](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
